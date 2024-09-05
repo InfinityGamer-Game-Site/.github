@@ -1,5 +1,5 @@
 <b>Welcome to InfinityGamer!</b><br>
-      Play a large collection of tons of free games. Whether you like action, adventure, puzzles, or strategy,
+      Play a large collection of free games. Whether you like action, adventure, puzzles, or strategy,
       you'll find something to enjoy.
       <br>
       There are multiple alternate links to fight against school blocks!
